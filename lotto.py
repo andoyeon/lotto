@@ -29,3 +29,7 @@ if __name__ == '__main__':
     count = Counter(lotto_except_bonus_list)
     print(count)
 
+    # 숫자 조합
+    
+
+
